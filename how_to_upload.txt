@@ -1,0 +1,10 @@
+- Modify files in src
+- Run your node.js console
+- Write command npm publish [path of this folder]
+- It launches a shell command file (.sh) who creates css from less and buildes the js files.
+- If you need to add other node modules, required by .less or .js files, put it also into [this_path]/node_modules
+- node plugins/modules needed : less, less2css, mousetrap, jquery, gitbook-markdown-css (font-awesome is inside less). 
+You can install these with npm install -g [plugin_name].
+It's required also preboot, you can download it at http://getpreboot.com/
+- Your plugin is ready, you can upload to github!
+
